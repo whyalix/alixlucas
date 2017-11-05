@@ -1,0 +1,13 @@
+{% assign class = "Image " | append: include.class %}
+{% assign src = include.src %}
+{% assign alt = include.alt %}
+
+{% if src %}
+  <div class="{{ class }}">
+    <img
+      class="Image__asset"
+      src="{{ src }}"
+      alt="{{ alt }}"
+    />
+  </div>
+{% endif %}

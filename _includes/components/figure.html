@@ -1,0 +1,17 @@
+{% assign class = "Figure " | append: include.class %}
+{% assign alt = include.alt %}
+{% assign src = include.src %}
+{% assign caption = include.caption %}
+
+{% if src %}
+  <div class="{{ class }}">
+    {% include components/image.html
+      src = src
+      alt = alt
+      class = "Figure__asset"
+    %}
+    <figcaption class="Figure__caption">
+      {{ caption }}
+    </figcaption>
+  </div>
+{% endif %}

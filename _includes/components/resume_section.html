@@ -1,0 +1,37 @@
+{% assign class = "ResumeSection " | append: include.class %}
+{% assign id = include.id %}
+{% assign section = site.data.resume[id] %}
+{% assign title = section.title %}
+{% assign items = site.data[id] %}
+
+{% if items %}
+<section id="{{ id }}" class="{{ class }}">
+  <div class="layout">
+    <div class="layout__col layout__col--1/3">
+      {% include components/title.html
+        level = 2
+        text = title
+      %}
+    </div>
+    <div class="layout__col layout__col--2/3">
+      {% for item in items %}
+        {% assign primary = item.primary %}
+        {% assign secondary = item.secondary %}
+        {% assign content = item.content %}
+
+        {% include components/media.html
+          primary = primary
+          secondary = secondary
+          content = content
+        %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<div class="layout">
+  <div class="layout__col layout__col--push-1/3 layout__col--2/3">
+    {% include components/divider.html %}
+  </div>
+</div>
+{% endif %}

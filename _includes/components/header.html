@@ -1,0 +1,14 @@
+{% assign class = "Header " | append: include.class %}
+
+<header role="banner" class="{{ class }}">
+  <span class="Header__name">Alix Lucas</span>
+  <button class="Header__toggle" type="button" id="nav-toggle">
+    🍔
+  </button>
+  <nav class="Nav Header__nav" id="nav">
+    <a href="/" class="Nav__link">Portfolio</a>
+    <a href="/biography" class="Nav__link">Biography</a>
+    <a href="/resume" class="Nav__link">Resume</a>
+    <a href="mailto:whyalix@gmail.com" class="Nav__link">whyalix@gmail.com</a>
+  </nav>
+</header>

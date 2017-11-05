@@ -1,0 +1,9 @@
+{% assign class = "Paragraph " | append: include.class %}
+{% assign text = include.text | normalize_whitespace %}
+{% assign count = text | number_of_words %}
+
+{% if count > 0 %}
+  <p class="{{ class }}">
+    {{ text }}
+  </p>
+{% endif %}

@@ -1,0 +1,16 @@
+{% assign class = "Media " | append: include.class %}
+{% assign primary = include.primary %}
+{% assign secondary = include.secondary %}
+{% assign content = include.content %}
+
+<div class="{{ class }}">
+  {% if primary %}
+    <span class="Media__primary">{{ primary }}</span>
+  {% endif %}
+  {% if secondary %}
+    <span class="Media__secondary">{{ secondary }}</span>
+  {% endif %}
+  {% if content %}
+    <p class="Media__content">{{ content }}</p>
+  {% endif %}
+</div>

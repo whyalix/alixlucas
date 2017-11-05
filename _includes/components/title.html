@@ -1,0 +1,14 @@
+{% assign level = include.level | default: 1 %}
+{% assign class = "Title " | append: include.class %}
+{% assign text = include.text %}
+{% assign hidden = include.hidden is true %}
+
+{% if hidden %}
+  {% assign class = class | append: " visually-hidden" %}
+{% endif %}
+
+{% if text %}
+  <h{{ level }} class="{{ class }}">
+    {{ text }}
+  </h{{ level }}>
+{% endif %}
