@@ -1,0 +1,14 @@
+.Nav {
+}
+
+.Nav__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  margin: 0.5em 0;
+}
+
+.Nav__link:hover,
+.Nav__link:focus {
+  color: hotpink;
+}

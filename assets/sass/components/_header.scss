@@ -1,0 +1,64 @@
+.Header {
+  background-color: white;
+  width: 100%;
+  z-index: 10;
+  padding: 1em;
+  display: flex;
+  position: relative;
+
+  @media (min-width: 600px) {
+    display: block;
+    padding: 5em 3em 0;
+    width: $header-width;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+  }
+}
+
+.Header__name {
+  opacity: 0.5;
+  display: block;
+
+  @media (min-width: 600px) {
+    margin-bottom: 1em;
+    font-size: 175%;
+  }
+}
+
+.Header__toggle {
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  margin-left: auto;
+
+  @media (min-width: 600px) {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .Header__Nav {
+    position: fixed;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background-color: white;
+    padding: 3em 1em 1em;
+    transform: translatey(100%);
+    transition: 250ms ease-out;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .Header__nav.isOpen {
+    opacity: 1;
+    transform: translatey(0);
+    pointer-events: auto;
+  }
+}

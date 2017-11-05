@@ -1,0 +1,18 @@
+.Media:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+.Media__primary {
+  font-weight: bold;
+  display: block;
+}
+
+.Media__secondary {
+  font-style: italic;
+  display: block;
+}
+
+.Media__content {
+  margin-bottom: 0;
+  margin-top: 0.5em;
+}
