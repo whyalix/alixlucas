@@ -1,0 +1,16 @@
+---
+layout: default
+title: Resume
+---
+
+{% include components/title.html
+  level = 1
+  text = "Resume"
+  hidden = true
+%}
+
+{% for id in site.data.resume.order %}
+  {% include components/resume_section.html
+    id = id
+  %}
+{% endfor %}

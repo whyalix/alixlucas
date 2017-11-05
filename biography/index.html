@@ -1,0 +1,36 @@
+---
+layout: default
+title: Briography
+---
+
+{% assign line_break = "
+" %}
+
+<div class="layout">
+  <div class="layout__col layout__col--1/3">
+    {% include components/figure.html
+      src = "/assets/images/shot.jpg"
+      alt = "Alix Lucas"
+      caption = "Credit: Sandro Mosco ©"
+    %}
+  </div>
+
+  <div class="layout__col layout__col--2/3">
+    {% assign title = site.data.biography.title %}
+    {% include components/title.html
+      level = 1
+      text = title
+    %}
+
+    {% assign content = site.data.biography.content %}
+    {% assign paragraphs = content | split: line_break %}
+
+    {% for paragraph in paragraphs %}
+      {% include components/paragraph.html
+        text = paragraph
+      %}
+    {% endfor %}
+
+    {% include components/divider.html %}
+  </div>
+</div>
