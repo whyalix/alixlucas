@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: page.lang | default: 'en' }}">
+
+  {% include head.html %}
+
+  <body>
+    {% include components/header.html %}
+
+    <main class="Main" aria-label="Content">
+      {{ content }}
+    </main>
+
+    <script src="/assets/js/main.js"></script>
+  </body>
+
+</html>
