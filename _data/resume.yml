@@ -1,0 +1,25 @@
+order:
+  - exhibitions
+  - art_residencies
+  - lectures
+  - ongoing_projects
+  - curations
+  - education
+
+exhibitions:
+  title: Exhibitions
+
+art_residencies:
+  title: Art residencies
+
+lectures:
+  title: Lectures
+
+ongoing_projects:
+  title: Ongoing projects
+
+curations:
+  title: Curation
+
+education:
+  title: Education
