@@ -20,6 +20,8 @@
 .Header__name {
   opacity: 0.5;
   display: block;
+  color: inherit;
+  text-decoration: none;
 
   @media (min-width: 600px) {
     margin-bottom: 1em;
