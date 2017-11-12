@@ -41,6 +41,12 @@
   }
 }
 
+.Header__icon {
+  width: 1em;
+  height: 1em;
+  fill: currentcolor;
+}
+
 @media (max-width: 600px) {
   .Header__nav {
     position: fixed;
