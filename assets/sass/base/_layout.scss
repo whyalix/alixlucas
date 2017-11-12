@@ -1,5 +1,6 @@
 .layout {
   display: flex;
+  flex-wrap: wrap;
   margin: 0 -1em;
 
   @media (max-width: 900px) {
@@ -12,6 +13,14 @@
   flex-shrink: 1;
   padding-left: 1em;
   padding-right: 1em;
+}
+
+.layout__col--no-grow {
+  flex-grow: 0;
+}
+
+.layout__col--no-shrink {
+  flex-shrink: 0;
 }
 
 @media (min-width: 900px) {
