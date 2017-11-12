@@ -30,3 +30,18 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Collections settings
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:title/
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: article
