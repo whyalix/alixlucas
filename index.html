@@ -6,3 +6,21 @@ layout: default
   level = 1
   text = "Portfolio"
 %}
+
+<div class="layout">
+  {% for item in site.portfolio %}
+    {% assign image = item.thumbnail %}
+    {% assign url = item.url %}
+    {% assign title = item.title %}
+    {% assign description = item.description %}
+
+    <div class="layout__col layout__col--1/3 layout__col--no-grow layout__col--no-shrink">
+      {% include components/teaser.html
+        image = image
+        url = url
+        title = title
+        description = description
+      %}
+    </div>
+  {% endfor %}
+</div>
