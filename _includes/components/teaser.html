@@ -1,0 +1,19 @@
+{% assign class = "Teaser " | append: include.class %}
+{% assign title = include.title %}
+{% assign url = include.url %}
+{% assign description = include.description %}
+{% assign image = include.image %}
+
+<article class="{{ class }}">
+  <a href="{{ url }}" class="Teaser__link">
+    {% include components/image.html
+      src = image
+      alt = ""
+      class = "Teaser__asset"
+    %}
+    <div class="Teaser__content">
+      <span class="Teaser__title">{{ title }}</span>
+      <p class="Teaser__description">{{ description }}</p>
+    </div>
+  </a>
+</article>
