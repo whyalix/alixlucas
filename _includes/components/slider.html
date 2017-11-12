@@ -1,0 +1,22 @@
+{% assign class = "Slider " | append: include.class %}
+{% assign images = include.images %}
+{% assign count = images | size | times: 1 %}
+{% if count > 2 %}
+  {% assign wrapAround = true %}
+{% else %}
+  {% assign wrapAround = false %}
+{% endif %}
+
+<div class="{{ class }}" data-flickity='{
+  "cellSelector": ".Slider__image",
+  "wrapAround": {{ wrapAround }},
+  "pageDots": false,
+  "setGallerySize": false
+}'>
+{% for image in images %}
+  {% assign src = image.src %}
+  {% assign alt = image.alt %}
+
+  <img src="{{ src }}" alt ="{{ alt }}" class="Slider__image" />
+{% endfor %}
+</div>
