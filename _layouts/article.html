@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% assign images = page.images %}
+{% assign title = page.title %}
+
+{% include components/title.html
+  text = title
+%}
+
+{% if images %}
+  {% include components/slider.html
+    images = images
+  %}
+{% endif %}
+
+{{ content }}
+
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
