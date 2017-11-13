@@ -2,7 +2,7 @@
 title: Somewhere Maybe Here
 description: |
  Video, performance and photo exhibition
- Ongoing project
+ (Ongoing project)
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_300/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
 images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
