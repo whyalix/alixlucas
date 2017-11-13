@@ -1,7 +1,7 @@
 ---
 title:
 description: |
-  Something something
+  Gelatin-silver prints, (2016 - today) 
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518654/alixlucas/haunted-dreams/007-1.jpg
 images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518654/alixlucas/haunted-dreams/007-1.jpg
