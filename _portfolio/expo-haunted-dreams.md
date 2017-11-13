@@ -1,5 +1,5 @@
 ---
-title: "Haunting dreams 001 (happening)"
+title: "Haunting dreams (happening)"
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_300/v1510518158/alixlucas/expo-haunted-dreams/018-4.jpg
 description: |
   Exhibition at Pavillon Kreuzberg, Berlin (2016)
