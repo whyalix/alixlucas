@@ -11,7 +11,7 @@
       class = "Figure__asset"
     %}
     <figcaption class="Figure__caption">
-      {{ caption }}
+      {{ caption | markdownify | replace: "<p>", "" | replace: "</p>", "" }}
     </figcaption>
   </div>
 {% endif %}
