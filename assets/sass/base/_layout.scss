@@ -24,6 +24,10 @@
 }
 
 @media (min-width: 900px) {
+  .layout__col--1\/2 {
+    flex-basis: (100% / 2);
+  }
+
   .layout__col--1\/3 {
     flex-basis: (100% / 3);
   }

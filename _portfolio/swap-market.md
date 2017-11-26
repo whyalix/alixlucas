@@ -2,7 +2,7 @@
 title: "Swap Market"
 description: |
   Happening
-thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_300/v1510518714/alixlucas/swap-market/DSC05150.jpg
+thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518714/alixlucas/swap-market/DSC05150.jpg
 images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518716/alixlucas/swap-market/human-symphony.jpg
     alt: …
