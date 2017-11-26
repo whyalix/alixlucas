@@ -1,0 +1,12 @@
+.Portrait {
+  -webkit-filter: grayscale(1);
+  -ms-filter: grayscale(1);
+  filter: grayscale(1);
+  transition: 1000ms ease-out;
+}
+
+.Portrait:hover {
+  -webkit-filter: grayscale(0);
+  -ms-filter: grayscale(0);
+  filter: grayscale(0);
+}
