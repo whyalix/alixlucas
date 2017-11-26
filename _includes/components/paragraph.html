@@ -4,6 +4,6 @@
 
 {% if count > 0 %}
   <p class="{{ class }}">
-    {{ text }}
+    {{ text | markdownify | replace: "<p>", "" | replace: "</p>", "" }}
   </p>
 {% endif %}
