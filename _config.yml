@@ -45,3 +45,9 @@ defaults:
       type: portfolio
     values:
       layout: article
+
+order_portfolio:
+  - expo-haunted-dreams
+  - haunted-dreams
+  - swap-market
+  - somewhere-maybe-here

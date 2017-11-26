@@ -8,7 +8,8 @@ layout: default
 %}
 
 <div class="layout">
-  {% for item in site.portfolio %}
+  {% for slug in site.order_portfolio %}
+    {% assign item = site.portfolio | where:"slug", slug | first %}
     {% assign image = item.thumbnail %}
     {% assign url = item.url %}
     {% assign title = item.title %}
