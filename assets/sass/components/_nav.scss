@@ -1,14 +1,21 @@
-.Nav {
+.Nav__list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.Nav__item {
+  margin: 0.5em 0;
 }
 
 .Nav__link {
-  display: block;
   text-decoration: none;
   color: inherit;
-  margin: 0.5em 0;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom-color 125ms ease-in;
 }
 
 .Nav__link:hover,
 .Nav__link:focus {
-  color: hotpink;
+  border-bottom-color: currentcolor;
 }
