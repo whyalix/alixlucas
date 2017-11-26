@@ -8,8 +8,9 @@ title: Biography
 
 <div class="layout">
   <div class="layout__col layout__col--1/3">
+    {% assign portrait = site.data.biography.image %}
     {% include components/figure.html
-      src = "/assets/images/shot.jpg"
+      src = portrait
       alt = "Alix Lucas"
       caption = "Credit: [Sandro Mosco ©](http://www.sandromosco.com/)"
     %}
