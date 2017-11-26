@@ -2,21 +2,21 @@
   margin-bottom: 2em;
 }
 
+.Teaser:hover .Teaser__asset,
+.Teaser:focus .Teaser__asset {
+  opacity: 0.8;
+}
+
 .Teaser__link {
   color: inherit;
   text-decoration: none;
   display: block;
-  border-top: 2px solid transparent;
   transition: 250ms;
-}
-
-.Teaser__link:focus,
-.Teaser__link:hover {
-  border-top-color: #333;
 }
 
 .Teaser__asset {
   margin-bottom: 0.5em;
+  transition: opacity 400ms ease-in;
 }
 
 @media (min-width: 600px) {
