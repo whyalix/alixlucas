@@ -16,6 +16,6 @@ During the event, every hour, one picture of the pinboard was revealed by the yo
 
 This rhythm created a feeling of excitement in the crowd, some people became impatient with discovering the next piece of the “dream”.
 
-The pictures were very narrative.  ey are linked to childhood memories.  e images are abstract enough, leaving room for everyone’s individual inner projections and experiences, just like dreams.
+The pictures were very narrative. They are linked to childhood memories. The images are abstract enough, leaving room for everyone’s individual inner projections and experiences, just like dreams.
 
-The interpretations of the viewer was a big part of the process
+The interpretations of the viewer was a big part of the process.
