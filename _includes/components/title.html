@@ -1,6 +1,7 @@
 {% assign level = include.level | default: 1 %}
 {% assign class = "Title " | append: include.class %}
 {% assign text = include.text %}
+{% assign id = include.id %}
 {% assign hidden = include.hidden is true %}
 
 {% if hidden %}
@@ -8,7 +9,7 @@
 {% endif %}
 
 {% if text %}
-  <h{{ level }} class="{{ class }}">
+  <h{{ level }} class="{{ class }}" id="{{ id }}">
     {{ text }}
   </h{{ level }}>
 {% endif %}
