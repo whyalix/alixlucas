@@ -1,0 +1,15 @@
+{% assign class = "Banner " | append: include.class %}
+
+<div class="{{ class }}">
+  {% include components/image.html
+    class = "Banner__image"
+    src = "http://res.cloudinary.com/whyalix/image/upload/v1520792419/alixlucas/landingpage/DSC07611.jpg"
+    alt = ""
+  %}
+
+  {% include components/title.html
+    class = "Banner__title"
+    level = 1
+    text = "Hi, I’m Alix Lucas."
+  %}
+</div>

@@ -1,0 +1,13 @@
+.Banner {
+
+}
+
+.Banner__image > img {
+  max-height: 75vh;
+}
+
+.Title.Banner__title {
+  @media (min-width: 900px) {
+    font-size: 300%;
+  }
+}
