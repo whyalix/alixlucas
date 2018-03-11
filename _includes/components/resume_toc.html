@@ -1,0 +1,8 @@
+{% assign class = "ResumeToc " | append: include.class %}
+
+<nav class="{{ class }}">
+{% for id in site.data.resume.order %}
+  {% assign title = site.data.resume[id].title %}
+  <a href="#{{ id }}">{{ title }}</a> {% unless forloop.last %}•{% endunless %}
+{% endfor %}
+</nav>
