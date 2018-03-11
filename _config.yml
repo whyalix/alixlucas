@@ -47,7 +47,8 @@ defaults:
       layout: article
 
 order_portfolio:
+  - somewhere-maybe-here
   - expo-haunted-dreams
   - haunted-dreams
   - swap-market
-  - somewhere-maybe-here
+
