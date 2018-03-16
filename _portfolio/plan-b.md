@@ -2,13 +2,26 @@
 title: "Plan B"
 description: |
   Installation
-thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518714/alixlucas/swap-market/DSC05150.jpg
+thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_932/v1521212545/alixlucas/plan-b/DSC07505.jpg
 images:
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518716/alixlucas/swap-market/human-symphony.jpg
+
+  - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07500
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518898/alixlucas/swap-market/DSC05197.jpg
+  - src: http://res.cloudinary.com/whyalix/image/upload/v1521212599/alixlucas/plan-b/DSC07586.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518714/alixlucas/swap-market/DSC05150.jpg
+  - src: http://res.cloudinary.com/whyalix/image/upload/v1521212545/alixlucas/plan-b/DSC07505.jpg
+    alt: …
+  - src: http://res.cloudinary.com/whyalix/image/upload/v1521212544/alixlucas/plan-b/DSC07480.jpg
+    alt: …
+  - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07514
+    alt: …
+   - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07548
+    alt: …
+  - src: http://res.cloudinary.com/whyalix/image/upload/v1521212613/alixlucas/plan-b/DSC07590.jpg
+    alt: …
+  - src: http://res.cloudinary.com/whyalix/image/upload/v1521212622/alixlucas/plan-b/DSC07587.jpg
+    alt: …
+  - src: http://res.cloudinary.com/whyalix/image/upload/v1521212544/alixlucas/plan-b/DSC07480.jpg
     alt: …
 ---
 
@@ -17,3 +30,15 @@ Who would imagine that, in 2018, access to emergency contraception would be such
 High pricing, shaming, victim blaming, the morning pill can be challenging to procure. 
 
 Through researches, gathering of testimonies of women who had to go to this process, *Plan B* raises awareness on this almost underground topic.
+
+The bed is the central point of the exhibition. This private space tool is the "secret keeper". 
+Through the headphones, the public can listen to intimates stories, just as if their were listening to a friend. 
+The stories are also accessible in the 'Plan B diaries', where anyone is also free to write down their own experience.
+
+The sound installation is surrounded by black and white pictures. They represent a distorted reality, to answer some of the issues the women mentioned.
+
+A emergency contraception pill for men.
+A same-day delivery 'Plan B', to get it from home and without hassle.
+A vending machine where you can get your 'Plan B' pill anonymously.
+
+
