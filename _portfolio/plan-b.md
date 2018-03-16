@@ -14,7 +14,7 @@ images:
     alt: …
   - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07514
     alt: …
-   - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07548
+  - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07548
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/v1521212613/alixlucas/plan-b/DSC07590.jpg
     alt: …
@@ -26,12 +26,12 @@ images:
 
 Who would imagine that, in 2018, access to emergency contraception would be such a hassle?
 
-High pricing, shaming, victim blaming, the morning pill can be challenging to procure. 
+High pricing, shaming, victim blaming, the morning pill can be challenging to procure.
 
-Through researches, gathering of testimonies of women who had to go to this process, *Plan B* raises awareness on this almost underground topic.
+Through researches, gathering of testimonies of women who had to go to this process, _Plan B_ raises awareness on this almost underground topic.
 
-The bed is the central point of the exhibition. This private space tool is the "secret keeper". 
-Through the headphones, the public can listen to intimates stories, just as if their were listening to a friend. 
+The bed is the central point of the exhibition. This private space tool is the "secret keeper".
+Through the headphones, the public can listen to intimates stories, just as if their were listening to a friend.
 The stories are also accessible in the 'Plan B diaries', where anyone is also free to write down their own experience.
 
 The sound installation is surrounded by black and white pictures. They represent a distorted reality, to answer some of the issues the women mentioned.
@@ -39,5 +39,3 @@ The sound installation is surrounded by black and white pictures. They represent
 A emergency contraception pill for men.
 A same-day delivery 'Plan B', to get it from home and without hassle.
 A vending machine where you can get your 'Plan B' pill anonymously.
-
-
