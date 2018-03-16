@@ -47,7 +47,7 @@ defaults:
       layout: article
 
 order_portfolio:
-  #- plan-b
+  - plan-b
   #- failed
   - somewhere-maybe-here
   - expo-haunted-dreams
