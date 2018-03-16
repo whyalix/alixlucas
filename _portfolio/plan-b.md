@@ -1,10 +1,9 @@
 ---
 title: "Plan B"
-description: |
-  Installation
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_932/v1521212545/alixlucas/plan-b/DSC07505.jpg
+description: |
+  Installation in ZK/U, Berlin (2018)
 images:
-
   - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07500
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/v1521212599/alixlucas/plan-b/DSC07586.jpg
