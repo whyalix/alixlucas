@@ -4,7 +4,7 @@ thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_932/v1521212
 description: |
   Installation in ZK/U, Berlin (2018)
 images:
-  - src: https://cloudinary.com/console/media_library#/dialog/image/upload/alixlucas%2Fplan-b%2FDSC07500
+  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212595/alixlucas/plan-b/DSC07500.jpg
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/v1521212599/alixlucas/plan-b/DSC07586.jpg
     alt: …
