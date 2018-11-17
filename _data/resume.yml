@@ -1,5 +1,6 @@
 order:
   - exhibitions
+  - happenings
   - art_residencies
   - lectures
   - ongoing_projects
@@ -8,6 +9,9 @@ order:
 
 exhibitions:
   title: Selected exhibitions
+
+happenings:
+  title: Selected happenings and performances
 
 art_residencies:
   title: Art residencies
