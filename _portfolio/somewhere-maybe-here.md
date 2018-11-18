@@ -11,7 +11,6 @@ images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518857/alixlucas/somewhere-maybe-here/_U0B1147-41-BW.jpg
     alt: …
 ---
-
 “Somewhere Maybe Here” is an ongoing project created by a team of artists from different practises. A fallen angel wanders in the streets of Berlin, craving interaction with humans.
 
 This piece focuses on humans in an urban environment and their reaction to this character who disrupts their everyday life.
