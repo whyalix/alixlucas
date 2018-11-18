@@ -4,7 +4,7 @@ title: Somewhere Maybe Here
 description: |
  Video, performance and photo exhibition
  (Ongoing project)
-thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1542509683/alixlucas/somewhere-maybe-here/SMH-FB-banner03.jpg
 images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
     alt: …
@@ -21,11 +21,6 @@ The final outcome will be a silent film screening with live piano playing in bac
 
 The making of
 ---
-title: Somewhere Maybe Here
-description: |
- Video, performance and photo exhibition
- (Ongoing project)
-thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
 images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
     alt: …
