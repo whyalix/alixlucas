@@ -1,14 +1,14 @@
 ---
-title: "Somewhere Maybe Here."
+title: "FAILED."
 description: |
-  Video, performance and photo exhibition
+  Happening
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518714/alixlucas/swap-market/DSC05150.jpg
 images:
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518839/alixlucas/somewhere-maybe-here/_U0B0917-2.jpg
+  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518716/alixlucas/swap-market/human-symphony.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518857/alixlucas/somewhere-maybe-here/_U0B1147-41-BW.jpg
+  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518898/alixlucas/swap-market/DSC05197.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1542510066/alixlucas/somewhere-maybe-here/U0B1181-46-2.jpg
+  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518714/alixlucas/swap-market/DSC05150.jpg
     alt: …
 ---
 Perfect images surround us. Photoshopped, curated and retouched: images are heavily restricted and kept under strict control. 
@@ -23,4 +23,4 @@ FAILED. encourages us to experience in a positive way, pictures that went wrong,
 This act of self-exposure challenges our notions of perfection and invites us to reconsider the value of vulnerability, bringing an experience of catharsis.
 
 
-[somewheremaybehere.com](https://www.somewheremaybehere.com/)
+Sound installation: *Evolution*, Velvet Carousel (2018)
