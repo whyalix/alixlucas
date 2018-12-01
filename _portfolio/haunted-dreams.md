@@ -32,3 +32,7 @@ We are everyday exposed to perfect crispy and retouched pictures.
 In contrast with digital work where everything is under control, the human process and its flaws are visible.
 
 The abstract comes into focus, the imagination is sparked and space is opened up for the viewer to offer their own interpretation of what has been created.
+
+images:
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-01.jpg
+    alt: …
