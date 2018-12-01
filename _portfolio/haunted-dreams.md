@@ -4,15 +4,15 @@ description: |
   Gelatin-silver prints, (2016 - today) 
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518654/alixlucas/haunted-dreams/007-1.jpg
 images:
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518654/alixlucas/haunted-dreams/007-1.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-01.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518684/alixlucas/haunted-dreams/008.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-02.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518770/alixlucas/haunted-dreams/010.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-03.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518771/alixlucas/haunted-dreams/011.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-04.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518754/alixlucas/haunted-dreams/012.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-05.jpg
     alt: …
 ---
 
