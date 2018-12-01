@@ -48,9 +48,10 @@ defaults:
 
 order_portfolio:
   - plan-b
-  #- failed
-  - somewhere-maybe-here
+  - failed
   - expo-haunted-dreams
   - haunted-dreams
   - swap-market
+  - somewhere-maybe-here
+ #- failed
 
