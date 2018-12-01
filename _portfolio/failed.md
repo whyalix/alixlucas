@@ -1,5 +1,5 @@
 ---
-title: "FAAAAILED."
+title: "FAILED."
 description: |
   Installation
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_342/v1543639632/alixlucas/failed/photoshopbanner.jpg
