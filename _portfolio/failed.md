@@ -1,20 +1,20 @@
 ---
-title: "Plan B"
+title: "FAILED."
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_932/v1521212545/alixlucas/plan-b/DSC07505.jpg
 description: |
-  Installation in ZK/U, Berlin (2018)
+  Installation in ZK/U, Berlin (2017)
 images:
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212595/alixlucas/plan-b/DSC07500.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543639530/alixlucas/failed/Failed-Exhibition-01.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212599/alixlucas/plan-b/DSC07586.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543639530/alixlucas/failed/Failed-Exhibition-02.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212545/alixlucas/plan-b/DSC07505.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543639530/alixlucas/failed/Failed-Exhibition-03.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212544/alixlucas/plan-b/DSC07480.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543639530/alixlucas/failed/Failed-Exhibition-04.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212593/alixlucas/plan-b/DSC07548.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543639530/alixlucas/failed/Failed-Exhibition-05.jpg
     alt: …
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212546/alixlucas/plan-b/DSC07499.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543639530/alixlucas/failed/Failed-Exhibition-06.jpg
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212613/alixlucas/plan-b/DSC07590.jpg
     alt: …
@@ -24,18 +24,12 @@ images:
     alt: …
 ---
 
-Who would imagine that, in 2018, access to emergency contraception would be such a hassle?
+Perfect images surround us. Photoshopped, curated and retouched: images are heavily restricted and kept under strict control. 
+It raises the important question: “What makes a successful picture nowadays?” 
 
-High pricing, shaming, victim blaming, the morning pill can be challenging to procure.
+The art work FAILED. pivots in a different direction. In contrast to the artificial perfection of digital photography, the installation offers the public to connect with analog shot photos where the unexpected prevails. Blurry, out of frame the subject become almost abstract.
 
-Through researches, gathering of testimonies of women who had to go to this process, _Plan B_ raises awareness on this almost underground topic.
+FAILED. encourages us to experience in a positive way pictures that went wrong, labelled ‘useless’ with regards to the technical requirements of a good picture.
 
-The bed is the central point of the exhibition. This private space tool is the "secret keeper".
-Through the headphones, the public can listen to intimates stories, just as if their were listening to a friend.
-The stories are also accessible in the 'Plan B diaries', where anyone is also free to write down their own experience.
-
-The sound installation is surrounded by black and white pictures. They represent a distorted reality, to answer some of the issues the women mentioned.
-
-A emergency contraception pill for men.
-A same-day delivery 'Plan B', to get it from home and without hassle.
-A vending machine where you can get your 'Plan B' pill anonymously.
+This act of self exposure challenges our notions of perfection and invites us to reconsider the value of vulnerability. 
+The pictures create a cathartic experience where the audience can emotionaly connect with the pictures. 
