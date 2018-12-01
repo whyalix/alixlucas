@@ -16,4 +16,4 @@ images:
 
 The public had the opportunity to participate in a special trade. They could take home one object of their choice by agreeing to sign a photography release form permitting themselves to be photographed.
 
-The goal of the event was to make people aware that were are trading our image everyday, through social media.
+The goal of the event was to make people aware that we are trading our image everyday, through social media.
