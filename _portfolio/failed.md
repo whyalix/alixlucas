@@ -1,6 +1,6 @@
 ---
 title: "FAILED."
-thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_932/v1521212545/alixlucas/plan-b/DSC07505.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1543639632/alixlucas/failed/photoshopbanner.jpg
 description: |
   Installation in ZK/U, Berlin (2017)
 images:
