@@ -19,7 +19,7 @@ images:
 Alix Lucas has installed a table in the Kreuzberg Pavillon displaying many objects that she got for free in Berlin. The performance lasted for one hour, during which people from the audience were able to trade one object from the table against their image. To get the object, each individual had to sign a form that would allow Alix to take a picture of them holding the object. The form also stated that Alix was given exclusive rights for that photo.
 
 
-- How did you get the idea of Swap market ?
+'''- How did you get the idea of Swap market ?'''
 
 It all started when I moved to Berlin where I discovered alternative ways of consuming. I started to trade clothes, food and objects. I got many objects from the streets and discovered stores where everything is free. As a photographer, I asked myself if people would trade their image against an object that they want to get.
 
