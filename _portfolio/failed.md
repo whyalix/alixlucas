@@ -36,4 +36,6 @@ The art work FAILED. pivots in a different direction. In contrast to the artific
 FAILED. encourages us to experience in a positive way pictures that went wrong, labelled ‘useless’ with regards to the technical requirements of a good picture.
 
 This act of self exposure challenges our notions of perfection and invites us to reconsider the value of vulnerability. 
-The pictures create a cathartic experience where the audience can emotionaly connect with the pictures. 
+The pictures create a cathartic experience where the audience can emotionaly connect with the pictures.
+
+ ![Process](https://res.cloudinary.com/whyalix/image/upload/v1543639529/alixlucas/failed/Failed-Process-01.jpg) 
