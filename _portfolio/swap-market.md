@@ -19,9 +19,11 @@ images:
 Alix Lucas has installed a table in the Kreuzberg Pavillon displaying many objects that she got for free in Berlin. The performance lasted for one hour, during which people from the audience were able to trade one object from the table against their image. To get the object, each individual had to sign a form that would allow Alix to take a picture of them holding the object. The form also stated that Alix was given exclusive rights for that photo.
 
 
-'''- How did you get the idea of Swap market ?'''
+
+- How did you get the idea of Swap market ?
 
 It all started when I moved to Berlin where I discovered alternative ways of consuming. I started to trade clothes, food and objects. I got many objects from the streets and discovered stores where everything is free. As a photographer, I asked myself if people would trade their image against an object that they want to get.
+
 
 
 - What are you trying to demonstrate with this performance ?
@@ -29,11 +31,13 @@ It all started when I moved to Berlin where I discovered alternative ways of con
 As the era of social media raises the question of image rights, the goal of the performance « Swap Market » is to make people aware that they are trading their image through social media everyday. I noticed  that the people who found an object that they really loved easily agreed to give their image. Thanks to the trade, the people rapidly connected with me and with the camera. They were able to instantly surrender to the lens, a process that usually takes time to develop between a model and a photographer.
 
 
+
 - Are you thinking of doing the performance again ?
 
 I have already done it in many different places. The second  performance took place in a flea market. I booked a spot like everyone else, but instead of selling stuff, I traded all my objects against an image of the trader. The performance in the flea market didn't work as well, mainly because people were suspicious. The performance wasn't organised by an official art institution and the people didn't know me. They didn't know my motivations and if they could trust me.
 
 I also once organised the performance in a private garden and in the workplace of my artist community. This was just before I left Berlin, I was moving out and I decided to give away my personnal objects through the performance. This time I was trading objects that I was emotionally connected to.
+
 
 
 - What did you do with all the pictures that you've taken ?
