@@ -38,4 +38,4 @@ FAILED. encourages us to experience in a positive way pictures that went wrong, 
 This act of self exposure challenges our notions of perfection and invites us to reconsider the value of vulnerability. 
 The pictures create a cathartic experience where the audience can emotionaly connect with the pictures.
 
- ![Process](https://res.cloudinary.com/whyalix/image/upload/v1543639529/alixlucas/failed/Failed-Process-01.jpg) 
+ ![Artist at work, view of the process](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_400/v1543639529/alixlucas/failed/Failed-Process-01.jpg) 
