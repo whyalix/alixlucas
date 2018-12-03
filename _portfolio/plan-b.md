@@ -22,6 +22,10 @@ images:
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1500/v1521212544/alixlucas/plan-b/DSC07480.jpg
     alt: …
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1543817505/alixlucas/plan-b/planB-01-before.jpg
+    alt: …
+
+
 ---
 
 Who would imagine that, in 2018, access to emergency contraception would be such a hassle?
