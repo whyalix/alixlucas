@@ -40,4 +40,5 @@ Then, I develop the pictures in the dark room. Rather than concentrating myself 
 This process gives to the pictures a dreamy and intimate aspect, which really pleases me a lot and because the images aren’t perfect they seem vulnerable. This vulnerability inspired me because it took the weight of image perfection off my shoulders.  
 
 - What are you trying to demonstrate through this project?
+
 Through “Haunted dreams” I want to advocate diversity and inclusivity by showing authentic unedited images that aren’t perfect. Nowadays, we are constantly surrounded by images that are thoroughly edited to show perfect content.  This constant race for perfection can be very stressful and puts a lot of weight on out shoulders. I want to give a different perspective to images. I want to give the audience the opportunity to use their imagination and participate creatively in the interpretation of the images. I hope that my imperfect pictures will educate people and help them to see beauty where it can be hidden.
