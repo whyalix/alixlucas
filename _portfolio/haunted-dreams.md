@@ -41,7 +41,7 @@ Through “Haunted dreams” I want to advocate diversity and inclusivity by sho
 
 _________________________________
 
-The work has been shown through different exhibition, and was also displayed during a 5 hours interactive show in Kreuzberg Pavillon in Berlin in 2016.  
+The work has been shown through different exhibition, and was also displayed during a 5 hours interactive show in Kreuzberg Pavillon in Berlin in 2017.  
 The setting was composed of a bedside table, a ceramic figurine and a pinboard, creating a favorable environment for an intimate and dreamy experience.  7 pictures were displayed face down on the pinboard. 
 Every 45 minutes, the youngest visitor revealed a picture for the audience to discover a new fragment of the dream. 
 The rhythmic presentation of the work allowed the audience to live the dream in real time,  and made them active in the process of looking at an image. 
