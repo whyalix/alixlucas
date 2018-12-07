@@ -38,9 +38,11 @@ Haunted dreams
 
 In 2016, after a decade of digital photography, I started to embrace the experimental possibilities of analog photography. I was first exposed to it when my neighbour gave me an old Yashica camera from the 1970’s. The camera was broken but I loved the aesthetic of the prints it produced in the dark room. I then decided to collect old cameras and focused on the emotions, vulnerabilities and flaws behind the human creative process.
 
+
 - Can you tell us more about the process that is involved in the project? 
 
 First of all, I explore the possibilities of my broken cameras. The pictures often come out blurry, overexposed or out of focus. These results reveal an obsolete, dreamy and intimate aspect of the pictures. I develop all the pictures myself in the dark room and I want the process to appear on the final work. For example, I would intentionally leave dust or fingerprints on the negative films. Sometimes, I would also use chemicals that are out of date, or broken tanks to develop the films. This process is extremely cathartic, because it removes the anxiety to produce the perfect result. Exhibiting the work is an act of self-exposure, and it can be frightening because the audience doesn’t’t understand why the pictures look so different from what they are used to see. They can be quite critical about it.
+
 
 - Can you tell us about the exhibiting process? 
 
@@ -48,6 +50,7 @@ The work has been shown through different exhibitions and was also displayed dur
 
 
 ![Description de mon image](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_900/v1510518200/alixlucas/expo-haunted-dreams/018-2.jpg)
+
 
 
 - What are you trying to demonstrate through this project? 
