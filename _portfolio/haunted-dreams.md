@@ -46,6 +46,10 @@ First of all, I explore the possibilities of my broken cameras. The pictures oft
 
 The work has been shown through different exhibitions and was also displayed during a 5-hour interactive show in Berlin Kreuzberg Pavillon in 2017. The setting was composed of a bedside table, a ceramic figurine and a pinboard, creating a favorable environment for an intimate and dreamy experience. Seven pictures were displayed face down on the pinboard. Every 45 minutes, the youngest visitor revealed a picture for the audience to discover a new fragment of the dream. The rhythmic presentation of the work allowed the audience to live the dream in real time and made them active in the process of looking at an image.
 
+
+![Description de mon image](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1100/v1510518200/alixlucas/expo-haunted-dreams/018-2.jpg)
+
+
 - What are you trying to demonstrate through this project? 
 
 Through “Haunted dreams” I want to advocate diversity and inclusivity by showing authentic unedited images that aren’t perfect. Nowadays, we are constantly surrounded by images that are thoroughly edited to show perfect content. This constant race for perfection can be very stressful and puts a lot of weight on our shoulders. I want to give a different perspective to images. I want to give the audience the opportunity to use their imagination and participate creatively in the interpretation of the images. I hope that my imperfect pictures will educate people and help them to see beauty where it can be hidden.
