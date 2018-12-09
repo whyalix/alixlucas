@@ -4,7 +4,7 @@ thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518
 description: |
   Exhibition at Pavillon Kreuzberg, Berlin (2016)
 images:
-  - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518158/alixlucas/expo-haunted-dreams/018-4.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1544347605/alixlucas/haunted-dreams/haunting-dreams-01.jpg
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518200/alixlucas/expo-haunted-dreams/018-2.jpg
     alt: …
