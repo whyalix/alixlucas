@@ -2,8 +2,14 @@
 title: Haunted dreams
 description: |
   Gelatin-silver prints, (2016 - today) 
-thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518654/alixlucas/haunted-dreams/007-1.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
 images:
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
+    alt: …
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/horse-and-cats.jpg
+    alt: …
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1544417621/alixlucas/haunted-dreams/dog-and-monkey.jpg
+    alt: …
   - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-01.jpg
     alt: …
   - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-02.jpg
