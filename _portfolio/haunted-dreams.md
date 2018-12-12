@@ -1,5 +1,5 @@
 ---
-title: Haunted dreams
+title: Haunting dreams
 description: |
   Gelatin-silver prints, (2016 - today) 
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
@@ -38,9 +38,9 @@ images:
     alt: …
 ---
 
-Haunted dreams
+Haunting dreams
 
-- How did you come with the idea of Haunted dreams? 
+- How did you come with the idea of Haunting dreams? 
 
 In 2016, after a decade of digital photography, I started to embrace the experimental possibilities of analog photography. I was first exposed to it when my neighbour gave me an old Yashica camera from the 1970’s. The camera was broken but I loved the aesthetic of the prints it produced in the dark room. I then decided to collect old cameras and focused on the emotions, vulnerabilities and flaws behind the human creative process.
 
@@ -54,5 +54,5 @@ The work has been shown through different exhibitions and was also displayed dur
 
 - What are you trying to demonstrate through this project? 
 
-Through “Haunted dreams” I want to advocate diversity and inclusivity by showing authentic unedited images that aren’t perfect. Nowadays, we are constantly surrounded by images that are thoroughly edited to show perfect content. This constant race for perfection can be very stressful and puts a lot of weight on our shoulders. I want to give a different perspective to images. I want to give the audience the opportunity to use their imagination and participate creatively in the interpretation of the images. I hope that my imperfect pictures will educate people and help them to see beauty where it can be hidden.
+Through “Haunting dreams” I want to advocate diversity and inclusivity by showing authentic unedited images that aren’t perfect. Nowadays, we are constantly surrounded by images that are thoroughly edited to show perfect content. This constant race for perfection can be very stressful and puts a lot of weight on our shoulders. I want to give a different perspective to images. I want to give the audience the opportunity to use their imagination and participate creatively in the interpretation of the images. I hope that my imperfect pictures will educate people and help them to see beauty where it can be hidden.
 
