@@ -2,7 +2,7 @@
 title: Somewhere Maybe Here
 description: |
   Gelatin-silver prints, (2016 - today)
-thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1542509683/alixlucas/somewhere-maybe-here/SMH-FB-banner03.jpg
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/v1544477289/alixlucas/somewhere-maybe-here/somewhere-maybe-here-1.jpg
     alt: …
