@@ -5,27 +5,27 @@ description: |
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518714/alixlucas/swap-market/DSC05150.jpg
 images:
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518716/alixlucas/swap-market/human-symphony.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518898/alixlucas/swap-market/DSC05197.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518714/alixlucas/swap-market/DSC05150.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-01.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-02.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-03.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-04.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-05.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-06.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-07.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-08.jpg
-    alt: …
+    alt: ''
 ---
 
 Swap Market « What value do you give to your own image? »

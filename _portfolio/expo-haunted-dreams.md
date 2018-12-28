@@ -5,11 +5,11 @@ description: |
   Exhibition at Pavillon Kreuzberg, Berlin (2016)
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544347605/alixlucas/haunted-dreams/haunting-dreams-01.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518200/alixlucas/expo-haunted-dreams/018-2.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518186/alixlucas/expo-haunted-dreams/018-3.jpg
-    alt: …
+    alt: ''
 ---
 
 During the event, every hour, one picture of the pinboard was revealed by the youngest member of the audience.

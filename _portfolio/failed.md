@@ -5,27 +5,27 @@ description: |
   Installation in ZK/U, Berlin (2018)
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543639530/alixlucas/failed/Failed-Exhibition-01.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543639530/alixlucas/failed/Failed-Exhibition-02.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543639530/alixlucas/failed/Failed-Exhibition-03.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543639530/alixlucas/failed/Failed-Exhibition-04.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543639530/alixlucas/failed/Failed-Exhibition-05.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543639530/alixlucas/failed/Failed-Exhibition-06.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543814047/alixlucas/failed/failed-mock-up-01.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543814047/alixlucas/failed/failed-mock-up-02.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543814047/alixlucas/failed/failed-mock-up-03.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543814047/alixlucas/failed/failed-mock-up-04.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543814047/alixlucas/failed/failed-mock-up-05.jpg
-    alt: …
+    alt: ''
 ---
 
 Perfect images surround us. Photoshopped, curated and retouched: images are heavily restricted and kept under strict control.

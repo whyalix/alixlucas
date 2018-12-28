@@ -5,29 +5,29 @@ description: |
   Installation in ZK/U, Berlin (2018)
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543895575/alixlucas/plan-b/planB-facebook-02.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543895574/alixlucas/plan-b/planB-facebook.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212595/alixlucas/plan-b/DSC07500.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212599/alixlucas/plan-b/DSC07586.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212545/alixlucas/plan-b/DSC07505.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212544/alixlucas/plan-b/DSC07480.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212593/alixlucas/plan-b/DSC07548.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212546/alixlucas/plan-b/DSC07499.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212613/alixlucas/plan-b/DSC07590.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212622/alixlucas/plan-b/DSC07587.jpg
-    alt: …
+    alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212544/alixlucas/plan-b/DSC07480.jpg
-    alt: …
+    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543817505/alixlucas/plan-b/planB-01-before.jpg
-    alt: …
+    alt: ''
 ---
 
 Who would imagine that, in 2018, access to emergency contraception would be such a hassle?
