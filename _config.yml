@@ -2,8 +2,8 @@
 title: Alix Lucas
 description: >
   Visual artist & photographer
-baseurl: ""
-url: ""
+baseurl: ''
+url: ''
 
 # Markdown settings
 markdown: kramdown
@@ -39,9 +39,8 @@ collections:
 
 # Default settings
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ''
       type: portfolio
     values:
       layout: article
@@ -50,8 +49,7 @@ order_portfolio:
   - plan-b
   - failed
   - expo-haunted-dreams
-  - haunted-dreams
+  - haunting-dreams
   - swap-market
   - somewhere-maybe-here
- #- failed
-
+  #- failed
