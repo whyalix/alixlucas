@@ -3,11 +3,15 @@
   height: 500px;
 }
 
-.Slider__image {
-  height: 100%;
+.Slider__slide {
   transition: opacity 250ms ease-out;
+  height: 100%;
 }
 
-.Slider__image:not(.is-selected) {
+.Slider__slide:not(.is-selected) {
   opacity: 0;
+}
+
+.Slider__image {
+  height: 100%;
 }

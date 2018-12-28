@@ -8,15 +8,18 @@
 {% endif %}
 
 <div class="{{ class }}" data-flickity='{
-  "cellSelector": ".Slider__image",
+  "cellSelector": ".Slider__slide",
   "wrapAround": {{ wrapAround }},
   "pageDots": false,
-  "setGallerySize": false
+  "setGallerySize": false,
+  "imagesLoaded": true
 }'>
 {% for image in images %}
   {% assign src = image.src %}
   {% assign alt = image.alt %}
 
-  <img src="{{ src }}" alt ="{{ alt }}" class="Slider__image" />
+  <div class="Slider__slide">
+    <img src="{{ src }}" alt="{{ alt }}" class="Slider__image" />
+  </div>
 {% endfor %}
 </div>
