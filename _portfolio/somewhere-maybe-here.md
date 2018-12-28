@@ -2,15 +2,15 @@
 title: Somewhere Maybe Here
 description: |
   Gelatin-silver prints, (2016 - today)
-thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1542509683/alixlucas/somewhere-maybe-here/SMH-FB-banner03.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1542509683/alixlucas/somewhere-maybe-here/SMH-FB-banner03.jpg
 images:
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544477289/alixlucas/somewhere-maybe-here/somewhere-maybe-here-1.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544477289/alixlucas/somewhere-maybe-here/somewhere-maybe-here-1.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544588878/alixlucas/somewhere-maybe-here/somewhere-maybe-here-2.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544588878/alixlucas/somewhere-maybe-here/somewhere-maybe-here-2.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544588878/alixlucas/somewhere-maybe-here/somewhere-maybe-here-3.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544588878/alixlucas/somewhere-maybe-here/somewhere-maybe-here-3.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544588878/alixlucas/somewhere-maybe-here/somewhere-maybe-here-4.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544588878/alixlucas/somewhere-maybe-here/somewhere-maybe-here-4.jpg
     alt: …
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Swap Market"
+title: 'Swap Market'
 description: |
   Happening
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518714/alixlucas/swap-market/DSC05150.jpg
@@ -10,43 +10,39 @@ images:
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518714/alixlucas/swap-market/DSC05150.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-01.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-01.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-02.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-02.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-03.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-03.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-04.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-04.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-05.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-05.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-06.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-06.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-07.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-07.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543898539/alixlucas/swap-market/swap-market-08.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543898539/alixlucas/swap-market/swap-market-08.jpg
     alt: …
 ---
 
 Swap Market « What value do you give to your own image? »
 
-
 25/03/2017, Kreuzberg Pavillon, Berlin
 
 Alix Lucas has installed a table in the Kreuzberg Pavillon displaying many objects that she got for free in Berlin. The performance lasted for one hour, during which people from the audience were able to trade one object from the table against their image. To get the object, the people had to sign a form that would allow Alix to take a picture of them holding the object. The form also stated that Alix was given exclusive rights for that photo.
-
 
 - How did you get the idea of Swap market?
 
 It all started when I moved to Berlin where I discovered alternative ways of consuming. I started to trade clothes, food and objects. I got many objects from the streets and discovered stores where everything is free. As a photographer, I asked myself if people would trade their image against an object that they want to get.
 
-
 - What are you trying to demonstrate with this performance?
 
-As the era of social media raises the question of image rights, the goal of the performance « Swap Market » is to make people aware that they are trading their image through social media everyday. I noticed that the people who found an object that they really loved easily agreed to give their image. 
+As the era of social media raises the question of image rights, the goal of the performance « Swap Market » is to make people aware that they are trading their image through social media everyday. I noticed that the people who found an object that they really loved easily agreed to give their image.
 
 Thanks to the trade, the people rapidly connected with me and with the camera. They were able to instantly surrender to the lens, a process that usually takes time to develop between a model and a photographer.
-
 
 - Are you thinking of doing the performance again?
 

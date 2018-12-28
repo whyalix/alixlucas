@@ -2,27 +2,27 @@
 title: Haunting dreams
 description: |
   Gelatin-silver prints, (2016 - today)
-thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
 images:
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544417628/alixlucas/haunted-dreams/horse-and-cats.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544417628/alixlucas/haunted-dreams/horse-and-cats.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1544417621/alixlucas/haunted-dreams/dog-and-monkey.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544417621/alixlucas/haunted-dreams/dog-and-monkey.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-01.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-01.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-02.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-02.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-03.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-03.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-04.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-04.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-05.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-05.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-06.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-06.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-07.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643995/alixlucas/haunted-dreams/Haunted-dreams-07.jpg
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518158/alixlucas/expo-haunted-dreams/018-4.jpg
     alt: …
@@ -30,11 +30,11 @@ images:
     alt: …
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1510518186/alixlucas/expo-haunted-dreams/018-3.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643988/alixlucas/haunted-dreams/Haunted-dreams-Process-01.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643988/alixlucas/haunted-dreams/Haunted-dreams-Process-01.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643988/alixlucas/haunted-dreams/Haunted-dreams-Process-02.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643988/alixlucas/haunted-dreams/Haunted-dreams-Process-02.jpg
     alt: …
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1543643988/alixlucas/haunted-dreams/Haunted-dreams-Process-03.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543643988/alixlucas/haunted-dreams/Haunted-dreams-Process-03.jpg
     alt: …
 ---
 
