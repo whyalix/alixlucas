@@ -11,10 +11,11 @@ permalink: /fr/artiste/
   <div class="layout__col layout__col--1/3">
     {% assign portrait = site.data[page.lang].statement.image.src %}
     {% assign caption = site.data[page.lang].statement.image.caption %}
+    {% assign alt = site.data[page.lang].statement.image.alt %}
     {% include components/figure.html
       class = "Portrait"
       src = portrait
-      alt = "Alix Lucas"
+      alt = alt
       caption = caption
     %}
   </div>
