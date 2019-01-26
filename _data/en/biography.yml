@@ -1,5 +1,7 @@
 title: Biography
-image: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_702/v1511789594/me-teapot-skull-pt_vlaplw.png
+image:
+  src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_702/v1511789594/me-teapot-skull-pt_vlaplw.png
+  caption: 'Credit: [Sandro Mosco ©](http://www.sandromosco.com/)'
 content: |
   Born in 1984 in Paris, Alix Lucas is a Berlin based artist and photographer.
 
