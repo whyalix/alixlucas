@@ -10,7 +10,7 @@
   <nav class="Nav Header__nav" id="nav">
     <ul class="Nav__list">
       <li class="Nav__item">
-        <a href="{{ site.data[page.lang].ui.nav.work.path }}" class="Nav__link">
+        <a href="{{ site.data[page.lang].ui.nav.work.path }}#selected-work" class="Nav__link">
           {{ site.data[page.lang].ui.nav.work.text }}
         </a>
       </li>
@@ -37,8 +37,7 @@
       <li class="Nav__item">
         {% assign other_language = site.data[page.lang].ui.nav.language_switch.lang %}
         {% capture page_name %}{% for p in site.data[page.lang].ui.nav %}{% if p[1].path == page.permalink %}{{ p[0] }}{% endif %}{% endfor %}{% endcapture %}
-        {% assign path = site.data[other_language].ui.nav[page_name].path %}
-        
+        {% assign path = site.data[other_language].ui.nav[page_name].path | default: site.data[other_language].ui.nav.language_switch.path %}
         <a href="{{ path }}" class="Nav__link" lang="{{ other_language }}" hreflang="{{ other_language }}">
           {{ site.data[page.lang].ui.nav.language_switch.text }}
         </a>

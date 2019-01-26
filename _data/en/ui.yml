@@ -1,7 +1,7 @@
 nav:
   work:
     text: Selected work
-    path: /#selected-work
+    path: /
   biography:
     text: Biography
     path: /biography/
