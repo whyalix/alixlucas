@@ -3,14 +3,16 @@ layout: default
 permalink: /
 ---
 
+{% assign title = site.data[page.lang].home.title %}
 {% include components/banner.html
-  title = "Hello, I'm Alix Lucas. A process-oriented visual artist."
+  title = title
 %}
 
+{% assign section_title = site.data[page.lang].ui.nav.work.text %}
 {% include components/title.html
   level = 2
-  text = "Selected work"
-  class = "visually-hidden"
+  text = section_title
+  hidden = true
   id = "selected-work"
 %}
 
