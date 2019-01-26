@@ -4,9 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
+{% assign title = site.data[page.lang].resume.title %}
 {% include components/title.html
   level = 1
-  text = "Resume"
+  text = title
   hidden = true
 %}
 
