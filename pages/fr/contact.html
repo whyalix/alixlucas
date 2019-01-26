@@ -4,15 +4,26 @@ title: Contact
 permalink: /fr/contact/
 ---
 
+{% assign line_break = "
+" %}
+
+{% assign title = site.data[page.lang].contact.title %}
 {% include components/title.html
-  text = "Contact"
+  text = title
 %}
 
-{% include components/paragraph.html
-  text = "Sentez-vous libre de me contacter à [helloalixlucas@gmail.com](mailto:helloalixlucas@gmail.com)."
-%}
+{% assign content = site.data[page.lang].contact.content %}
+{% assign paragraphs = content | split: line_break %}
 
+{% for paragraph in paragraphs %}
+  {% include components/paragraph.html
+    text = paragraph
+  %}
+{% endfor %}
+
+{% assign src = site.data[page.lang].contact.image.src %}
+{% assign alt = site.data[page.lang].contact.image.alt %}
 {% include components/image.html
-  src = "https://res.cloudinary.com/whyalix/image/upload/v1543639538/alixlucas/failed/Failed-Process-03.jpg"
-  alt = ""
+  src = src
+  alt = alt
 %}
