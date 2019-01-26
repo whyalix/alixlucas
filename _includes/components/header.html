@@ -10,23 +10,38 @@
   <nav class="Nav Header__nav" id="nav">
     <ul class="Nav__list">
       <li class="Nav__item">
-        <a href="/#selected-work" class="Nav__link">Selected work</a>
+        <a href="{{ site.data[page.lang].ui.nav.work.path }}" class="Nav__link">
+          {{ site.data[page.lang].ui.nav.work.text }}
+        </a>
       </li>
       <li class="Nav__item">
-        <a href="/biography" class="Nav__link">Biography</a>
+        <a href="{{ site.data[page.lang].ui.nav.biography.path }}" class="Nav__link">
+          {{ site.data[page.lang].ui.nav.biography.text }}
+        </a>
       </li>
       <li class="Nav__item">
-        <a href="/statement" class="Nav__link">Artist statement</a>
+        <a href="{{ site.data[page.lang].ui.nav.statement.path }}" class="Nav__link">
+          {{ site.data[page.lang].ui.nav.statement.text }}
+        </a>
       </li>
       <li class="Nav__item">
-        <a href="/resume" class="Nav__link">Resume</a>
+        <a href="{{ site.data[page.lang].ui.nav.resume.path }}" class="Nav__link">
+          {{ site.data[page.lang].ui.nav.resume.text }}
+        </a>
       </li>
       <li class="Nav__item">
-        <a href="/contact" class="Nav__link">Contact</a>
+        <a href="{{ site.data[page.lang].ui.nav.contact.path }}" class="Nav__link">
+          {{ site.data[page.lang].ui.nav.contact.text }}
+        </a>
       </li>
       <li class="Nav__item">
-        <a href="/fr" class="Nav__link" lang="fr" hreflang="fr">Version
-          Française</a>
+        {% assign other_language = site.data[page.lang].ui.nav.language_switch.lang %}
+        {% capture page_name %}{% for p in site.data[page.lang].ui.nav %}{% if p[1].path == page.permalink %}{{ p[0] }}{% endif %}{% endfor %}{% endcapture %}
+        {% assign path = site.data[other_language].ui.nav[page_name].path %}
+        
+        <a href="{{ path }}" class="Nav__link" lang="{{ other_language }}" hreflang="{{ other_language }}">
+          {{ site.data[page.lang].ui.nav.language_switch.text }}
+        </a>
       </li>
     </ul>
   </nav>

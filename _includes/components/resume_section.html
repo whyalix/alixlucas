@@ -1,8 +1,8 @@
 {% assign class = "ResumeSection " | append: include.class %}
 {% assign id = include.id %}
-{% assign section = site.data.resume[id] %}
+{% assign section = site.data[page.lang].resume[id] %}
 {% assign title = section.title %}
-{% assign items = site.data[id] %}
+{% assign items = site.data[page.lang][id] %}
 
 {% if items %}
 <section id="{{ id }}" class="{{ class }}">

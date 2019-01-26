@@ -1,0 +1,34 @@
+---
+layout: default
+permalink: /
+---
+
+{% include components/banner.html
+  title = "Hello, I'm Alix Lucas. A process-oriented visual artist."
+%}
+
+{% include components/title.html
+  level = 2
+  text = "Selected work"
+  class = "visually-hidden"
+  id = "selected-work"
+%}
+
+<div class="layout">
+  {% for slug in site.order_portfolio %}
+    {% assign item = site.portfolio | where:"slug", slug | first %}
+    {% assign image = item.thumbnail %}
+    {% assign url = item.url %}
+    {% assign title = item.title %}
+    {% assign description = item.description %}
+
+    <div class="layout__col layout__col--1/2 layout__col--no-grow layout__col--no-shrink">
+      {% include components/teaser.html
+        image = image
+        url = url
+        title = title
+        description = description
+      %}
+    </div>
+  {% endfor %}
+</div>
