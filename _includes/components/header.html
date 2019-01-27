@@ -34,6 +34,9 @@
           {{ site.data[page.lang].ui.nav.contact.text }}
         </a>
       </li>
+    </ul>
+    {% include components/divider.html %}
+    <ul class="Nav__list">
       <li class="Nav__item">
         {% assign other_language = site.data[page.lang].ui.nav.language_switch.lang %}
         {% capture page_name %}{% for p in site.data[page.lang].ui.nav %}{% if p[1].path == page.permalink %}{{ p[0] }}{% endif %}{% endfor %}{% endcapture %}
