@@ -44,6 +44,14 @@ defaults:
       type: portfolio
     values:
       layout: article
+  - scope:
+      path: 'pages/fr'
+    values:
+      lang: fr
+  - scope:
+      path: 'pages/en'
+    values:
+      lang: en
 
 order_portfolio:
   - plan-b

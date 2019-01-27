@@ -1,0 +1,29 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
+{% assign line_break = "
+" %}
+
+{% assign title = site.data[page.lang].contact.title %}
+{% include components/title.html
+  text = title
+%}
+
+{% assign content = site.data[page.lang].contact.content %}
+{% assign paragraphs = content | split: line_break %}
+
+{% for paragraph in paragraphs %}
+  {% include components/paragraph.html
+    text = paragraph
+  %}
+{% endfor %}
+
+{% assign src = site.data[page.lang].contact.image.src %}
+{% assign alt = site.data[page.lang].contact.image.alt %}
+{% include components/image.html
+  src = src
+  alt = alt
+%}

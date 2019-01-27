@@ -1,0 +1,22 @@
+---
+layout: default
+title: CV
+permalink: /fr/cv/
+---
+
+{% assign title = site.data[page.lang].resume.title %}
+{% include components/title.html
+  level = 1
+  text = title
+  hidden = true
+%}
+
+{% include components/resume_toc.html %}
+
+{% include components/divider.html %}
+
+{% for id in site.data[page.lang].resume.order %}
+  {% include components/resume_section.html
+    id = id
+  %}
+{% endfor %}

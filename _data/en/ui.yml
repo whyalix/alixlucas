@@ -1,0 +1,20 @@
+nav:
+  work:
+    text: Selected work
+    path: /
+  biography:
+    text: Biography
+    path: /biography/
+  statement:
+    text: Artist statement
+    path: /statement/
+  resume:
+    text: Resume
+    path: /resume/
+  contact:
+    text: Contact
+    path: /contact/
+  language_switch:
+    text: Version Française
+    path: /fr/
+    lang: fr

@@ -1,0 +1,41 @@
+---
+layout: default
+title: Mot d’artiste
+permalink: /fr/artiste/
+---
+
+{% assign line_break = "
+" %}
+
+<div class="layout">
+  <div class="layout__col layout__col--1/3">
+    {% assign portrait = site.data[page.lang].statement.image.src %}
+    {% assign caption = site.data[page.lang].statement.image.caption %}
+    {% assign alt = site.data[page.lang].statement.image.alt %}
+    {% include components/figure.html
+      class = "Portrait"
+      src = portrait
+      alt = alt
+      caption = caption
+    %}
+  </div>
+
+  <div class="layout__col layout__col--2/3">
+    {% assign title = site.data[page.lang].statement.title %}
+    {% include components/title.html
+      level = 1
+      text = title
+    %}
+
+    {% assign content = site.data[page.lang].statement.content %}
+    {% assign paragraphs = content | split: line_break %}
+
+    {% for paragraph in paragraphs %}
+      {% include components/paragraph.html
+        text = paragraph
+      %}
+    {% endfor %}
+
+    {% include components/divider.html %}
+  </div>
+</div>

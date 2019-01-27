@@ -1,0 +1,30 @@
+title: CV
+order:
+  - exhibitions
+  - happenings
+  - art_residencies
+  - lectures
+  - ongoing_projects
+  - curations
+  - education
+
+exhibitions:
+  title: Expositions
+
+happenings:
+  title: Performances & événements
+
+art_residencies:
+  title: Résidences d’artistes
+
+lectures:
+  title: Conférences
+
+ongoing_projects:
+  title: Projets en cours
+
+curations:
+  title: Organisations
+
+education:
+  title: Éducation

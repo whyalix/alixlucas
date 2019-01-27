@@ -1,0 +1,36 @@
+---
+layout: default
+permalink: /
+---
+
+{% assign title = site.data[page.lang].home.title %}
+{% include components/banner.html
+  title = title
+%}
+
+{% assign section_title = site.data[page.lang].ui.nav.work.text %}
+{% include components/title.html
+  level = 2
+  text = section_title
+  hidden = true
+  id = "selected-work"
+%}
+
+<div class="layout">
+  {% for slug in site.order_portfolio %}
+    {% assign item = site.portfolio | where:"slug", slug | first %}
+    {% assign image = item.thumbnail %}
+    {% assign url = item.url %}
+    {% assign title = item.title %}
+    {% assign description = item.description %}
+
+    <div class="layout__col layout__col--1/2 layout__col--no-grow layout__col--no-shrink">
+      {% include components/teaser.html
+        image = image
+        url = url
+        title = title
+        description = description
+      %}
+    </div>
+  {% endfor %}
+</div>
