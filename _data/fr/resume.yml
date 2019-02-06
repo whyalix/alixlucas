@@ -9,22 +9,22 @@ order:
   - education
 
 exhibitions:
-  title: Expositions
+  title: Exposition
 
 happenings:
-  title: Performances & événements
+  title: Performance & happening
 
 art_residencies:
-  title: Résidences d’artistes
+  title: Résidence d’artiste
 
 lectures:
-  title: Conférences
+  title: Conférence
 
 ongoing_projects:
-  title: Projets en cours
+  title: Projet en cours
 
 curations:
-  title: Organisations
+  title: Commissariat d'exposition
 
 education:
   title: Éducation
