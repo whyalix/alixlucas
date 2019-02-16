@@ -17,7 +17,7 @@ permalink: /fr/
 %}
 
 <div class="layout">
-  {% for slug in site.order_portfolio %}
+  {% for slug in site.order_portfolio[page.lang] %}
     {% assign item = site.portfolio | where:"slug", slug | first %}
     {% assign image = item.thumbnail %}
     {% assign url = item.url %}

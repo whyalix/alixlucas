@@ -54,8 +54,10 @@ defaults:
       lang: en
 
 order_portfolio:
-  - plan-b
-  - failed
-  - haunting-dreams
-  - swap-market
-  - somewhere-maybe-here
+  en:
+    - plan-b
+    - failed
+    - haunting-dreams
+    - swap-market
+    - somewhere-maybe-here
+  fr: []
