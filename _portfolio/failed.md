@@ -1,5 +1,6 @@
 ---
 title: 'FAILED.'
+lang: en
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1543639530/alixlucas/failed/Failed-Exhibition-01.jpg
 description: |
   Installation in ZK/U, Berlin (2018)

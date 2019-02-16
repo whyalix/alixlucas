@@ -1,5 +1,6 @@
 ---
 title: 'Haunted dreams (happening)'
+lang: en
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1510518158/alixlucas/expo-haunted-dreams/018-4.jpg
 description: |
   Exhibition at Pavillon Kreuzberg, Berlin (2016)

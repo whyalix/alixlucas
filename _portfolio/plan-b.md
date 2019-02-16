@@ -1,5 +1,6 @@
 ---
 title: 'Plan B'
+lang: en
 thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1521212545/alixlucas/plan-b/DSC07505.jpg
 description: |
   Installation in ZK/U, Berlin (2018)
