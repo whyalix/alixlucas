@@ -15,7 +15,11 @@
   transition: border-bottom-color 125ms ease-in;
 }
 
-.Nav__link:hover,
-.Nav__link:focus {
+span.Nav__link {
+  opacity: 0.8;
+}
+
+a.Nav__link:hover,
+a.Nav__link:focus {
   border-bottom-color: currentcolor;
 }
