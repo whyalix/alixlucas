@@ -5,10 +5,6 @@ thumbnail: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1521212
 description: |
   Installation au ZK/U, Berlin (2018)
 images:
-  # - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543895575/alixlucas/plan-b/planB-facebook-02.jpg
-  #  alt: ''
-  # - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1543895574/alixlucas/plan-b/planB-facebook.jpg
-  #  alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212595/alixlucas/plan-b/DSC07500.jpg
     alt: ''
   - src: http://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1521212599/alixlucas/plan-b/DSC07586.jpg
