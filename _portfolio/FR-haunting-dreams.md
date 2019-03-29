@@ -1,6 +1,6 @@
 ---
 title: Haunting dreams
-lang: en
+lang: fr
 description: |
   Gelatin-silver prints, (2016 - today)
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1544417628/alixlucas/haunted-dreams/shoes-and-skeleton.jpg
