@@ -62,7 +62,7 @@ order_portfolio:
     - somewhere-maybe-here
   fr:
     - fr-plan-b
-    - FR-failed
-    - FR-haunting-dreams
-    - FR-swap-market
-    - FR-somewhere-maybe-here
+    - fr-failed
+    - fr-haunting-dreams
+    - fr-swap-market
+    - fr-somewhere-maybe-here
