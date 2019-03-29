@@ -33,12 +33,13 @@ Dans un mode dominé par la perfection de l’image retouchée, comment le publi
 il face à des photos ratées ?
 
 Dans un container de cargo, Alix Lucas a installé un faux atelier, où des clichés ratés
-couvrent les murs. Le tirage en grand format d’une photo foue est une revendication.
-Placé dans un contexte institutionnel, le cliché fou prend toute son ampleur,
+couvrent les murs. Le tirage en grand format d’une photo floue devient une revendication.
+Placé dans un contexte institutionnel, le cliché flou prend toute son ampleur,
 encourageant le public à le valider en tant qu’”oeuvre d’art”.
 L’installation pose la question suivante : ‘Qu’est ce qu’une bonne photo, dans notre
 société actuelle ?’
-Exposition accompagnée de l’installation sonore *Evolution* de Velvet Carousel (2018)
+
+L'exposition est accompagnée d'une l’installation sonore *Evolution* du projet musical 'Velvet Carousel' (2018)
 Ce projet a été réalisé dans le cadre d’une résidence d’artiste.
 
 ![Artist at work, view of the process](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_600/v1543639529/alixlucas/failed/Failed-Process-01.jpg)
