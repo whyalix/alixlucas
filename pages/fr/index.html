@@ -4,8 +4,10 @@ permalink: /fr/
 ---
 
 {% assign title = site.data[page.lang].home.title %}
+{% assign image = site.data[page.lang].home.image %}
 {% include components/banner.html
   title = title
+  image = image
 %}
 
 {% assign section_title = site.data[page.lang].ui.nav.work.text %}
