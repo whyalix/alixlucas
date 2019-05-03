@@ -3,7 +3,7 @@ title: 'The best advice'
 lang: en
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice1.jpg
 description: |
-  Installation au Centre d'art, Nouméa, Nouvelle-Calédonie (2019)
+  Installation in Centre d'art, Noumea, New-Caledonia (2019)
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice1.jpg
     alt: ''
@@ -21,16 +21,15 @@ images:
     alt: ''
 ---
 
-Installation au Centre d'art pour l'exposition collective 'Laissez parler les petits papiers', Nouméa, Nouvelle-Calédonie (2019).
-Travail en résidence financé et soutenu par la Ville de Nouméa. 
+Installation at the Art Center for the collective exhibition 'Laissez parler les petits papiers' ('Let the little papers speak'), Noumea, New Caledonia (2019).
+Work in residence financed and supported by the City of Noumea.
 
-Pour le projet ‘Laissez parler les petits papiers’, Alix Lucas propose d’utiliser le papier pour faire passer des messages positifs d’entraide. Dans un monde où la majorité du savoir se transmet via des écrans numériques, l’artiste souhaite recentrer le papier comme média d’échange et de partage. 
+For the project, Alix Lucas proposes to use paper to convey positive messages of mutual help. In a world where the majority of knowledge is transmitted via digital screens, the artist wants to refocus paper as a medium of exchange and sharing.
 
-Elle est allée spontanément questionner le public dans divers lieux et a encouragé les personnes qu’elle a rencontrées à écrire sur un papier le meilleur conseil jamais reçu. Elle s’est ensuite approprié ces messages en les photographiant un par un. Ces clichés ont été soigneusement imprimés grâce au procédé artisanal de la cyanotypie, une technique de reproduction photographique du 19ème siècle qui réagit aux UV et qui permet de tirer des monochromes bleus. Chaque tirage a une variation de bleu différente en fonction de la météo et de la puissance des UV, ce qui rend chaque message unique.
+She went spontaneously to question the public in various places and encouraged the people she met to write on paper the best advice ever received. She shot each advice she collected. These shots were then carefully printed using the hand-crafted process of cyanotype, a 19th-century photographic reproduction technique that reacts to UV light. The use of UV light in her artwork made sense to the artist, since the UV index in New-Caledonia is one of the highest of the world and she wanted to make to use this characteristic in the artistic process. 
 
-L’ensemble de ces 42 conseils offre la possibilité au public de s’en inspirer, de connecter avec certains d’entre eux et peut-être de les appliquer dans sa vie quotidienne.
+Each print has a different blue variation depending on the weather and UV power, making each message unique.
 
-
-L'exposition est accompagnée d'une installation sonore. 
+All of these 42 prints offer the opportunity for the public to get inspired, connect with some of them and perhaps apply them in their daily lives.
 
 ![Artist at work, view of the process](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_600/v1543639529/alixlucas/failed/Failed-Process-01.jpg)
