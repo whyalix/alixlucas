@@ -55,6 +55,7 @@ defaults:
 
 order_portfolio:
   en:
+    - best-advice
     - plan-b
     - failed
     - haunting-dreams
