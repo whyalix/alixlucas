@@ -31,5 +31,3 @@ She went spontaneously to question the public in various places and encouraged t
 Each print has a different blue variation depending on the weather and UV power, making each message unique.
 
 All of these 42 prints offer the opportunity for the public to get inspired, connect with some of them and perhaps apply them in their daily lives.
-
-![Artist at work, view of the process](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_600/v1543639529/alixlucas/failed/Failed-Process-01.jpg)
