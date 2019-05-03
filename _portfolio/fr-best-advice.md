@@ -5,7 +5,7 @@ thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas
 description: |
   Installation au Centre d'art pour l'exposition collective 'Laissez parler les petits papiers', Nouméa, Nouvelle-Calédonie (2019)
   Travail en résidence financé et soutenu par la Ville de Nouméa. 
-
+images:
   - src: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice1.jpg
     alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice2.jpg
