@@ -61,6 +61,7 @@ order_portfolio:
     - swap-market
     - somewhere-maybe-here
   fr:
+    - fr-best-advice
     - fr-plan-b
     - fr-failed
     - fr-haunting-dreams
