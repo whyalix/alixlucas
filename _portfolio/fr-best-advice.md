@@ -1,5 +1,5 @@
 ---
-title: 'LE MEILLEUR CONSEIL'
+title: 'Le meilleur conseil'
 lang: fr
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice1.jpg
 description: |
