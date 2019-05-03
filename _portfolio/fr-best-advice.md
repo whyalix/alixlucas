@@ -40,5 +40,3 @@ L’ensemble de ces 42 conseils offre la possibilité au public de s’en inspir
 
 
 L'exposition est accompagnée d'une installation sonore. 
-
-![Artist at work, view of the process](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_600/v1543639529/alixlucas/failed/Failed-Process-01.jpg)
