@@ -60,22 +60,5 @@
         </a>
       </li>
     </ul>
-    {% include components/divider.html %}
-    <ul class="Nav__list">
-      <li class="Nav__item">
-        {% assign other_language =
-        site.data[page.lang].ui.nav.language_switch.lang %} {% capture page_name
-        %}{% for p in site.data[page.lang].ui.nav %}{% if p[1].path ==
-        page.permalink %}{{ p[0] }}{% endif %}{% endfor %}{% endcapture %} {%
-        assign path = site.data[other_language].ui.nav[page_name].path |
-        default: site.data[other_language].ui.nav.language_switch.path %} {% if
-        page.lang == 'en' %} <span class="Nav__link">en</span> ·
-        <a href="{{ path }}" class="Nav__link" hreflang="fr">fr</a>
-        {% else %}
-        <a href="{{ path }}" class="Nav__link" hreflang="en">en</a> ·
-        <span class="Nav__link">fr</span>
-        {% endif %}
-      </li>
-    </ul>
   </nav>
 </header>
