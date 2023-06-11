@@ -5,6 +5,10 @@
 
   @media (max-width: 900px) {
     flex-direction: column;
+    
+    .Portrait {
+      filter: grayscale(0) !important;
+    }
   }
 }
 
