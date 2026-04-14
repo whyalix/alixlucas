@@ -1,7 +1,7 @@
 title: Resume
 order:
   - happenings
-  - ongoing_projects
+  - group_projects
   - art_residencies
   - exhibitions
   - lectures
@@ -11,8 +11,8 @@ order:
 happenings:
   title: Happening and performance
 
-ongoing_projects:
-  title: Ongoing projects
+group_projects:
+  title: Group projects
 
 art_residencies:
   title: Art residencies
