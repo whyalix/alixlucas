@@ -1,27 +1,27 @@
 title: Resume
 order:
-  - exhibitions
   - happenings
-  - art_residencies
-  - lectures
   - ongoing_projects
+  - art_residencies
+  - exhibitions
+  - lectures
   - curations
   - education
-
-exhibitions:
-  title: Selected exhibitions
 
 happenings:
   title: Happening and performance
 
+ongoing_projects:
+  title: Ongoing projects
+
 art_residencies:
   title: Art residencies
 
+exhibitions:
+  title: Selected exhibitions
+
 lectures:
   title: Lectures
-
-ongoing_projects:
-  title: Ongoing projects
 
 curations:
   title: Curation
