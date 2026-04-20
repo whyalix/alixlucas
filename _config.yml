@@ -55,10 +55,10 @@ defaults:
 
 order_portfolio:
   en:
+    - movement-workshops
     - best-advice
     - plan-b
     - failed
-    - haunting-dreams
     - swap-market
     - somewhere-maybe-here
   fr:
