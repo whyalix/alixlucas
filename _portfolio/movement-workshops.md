@@ -3,8 +3,7 @@ title: Movement workshops
 lang: en
 description: |
   Group performance facilitation, (2024 - today)
-thumbnail: 
-https://res.cloudinary.com/whyalix/image/upload/v1776696028/alixlucas/movement-workshops/_U0B0609.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1776696028/alixlucas/movement-workshops/_U0B0609.jpg
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776696028/alixlucas/movement-workshops/_U0B0609.jpg
     alt: ''
