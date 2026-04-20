@@ -62,6 +62,7 @@ order_portfolio:
     - swap-market
     - somewhere-maybe-here
   fr:
+    - fr-movement-workshops
     - fr-best-advice
     - fr-plan-b
     - fr-failed
