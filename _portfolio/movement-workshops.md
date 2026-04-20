@@ -16,7 +16,6 @@ images:
     alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776696030/alixlucas/movement-workshops/_U0B0524.jpg
     alt: ''
-  - src: 
 ---
 
 - How did you come with the idea of Haunting dreams?
