@@ -9,8 +9,6 @@ images:
     alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776696032/alixlucas/movement-workshops/_U0B0530.jpg
     alt: ''
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1776696032/alixlucas/movement-workshops/_U0B0530.jpg
-    alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776696027/alixlucas/movement-workshops/_U0B0603.jpg
     alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776696030/alixlucas/movement-workshops/_U0B0524.jpg
