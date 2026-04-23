@@ -55,6 +55,7 @@ defaults:
 
 order_portfolio:
   en:
+    - ourbodymoves
     - movement-workshops
     - best-advice
     - plan-b
