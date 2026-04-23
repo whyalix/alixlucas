@@ -20,7 +20,8 @@ Site specific performance held in 90MIL Berlin, about connection and intimacy, a
 - 8 minute solo performed by Alix Lucas, "the Fairy tree", where the audience is invited to join a circle by touching hands, hand humming a co-regulated group, on the sound of the wind. 
 
 <div style="max-width: 35%; margin: 2rem auto; border-radius: 6px; overflow: hidden; box-shadow: 0 4px 24px rgba(0,0,0,0.18);">
-  <video controls width="100%" style="display: block;">
+  <video controls width="100%" style="display: block;"
+    poster="https://res.cloudinary.com/whyalix/image/upload/v1776949901/alixlucas/ourbodymoves/DSC07505_thumbnail.jpg">
     <source src="https://res.cloudinary.com/whyalix/video/upload/v1776948711/alixlucas/ourbodymoves/90MIL_site_specific_trailer.mp4" type="video/mp4">
   </video>
 </div>
