@@ -1,7 +1,7 @@
 ---
 title: 'Our Body Moves, site specific performance'
 lang: en
-thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1776948716/alixlucas/ourbodymoves/photo_2026-04-23_13-58-406-HORIZONTAL.jpg
+thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1776949901/alixlucas/ourbodymoves/DSC07505_thumbnail.jpg
 description: |
   Site Specific Performance, Berlin, Germany (2026)
 images:
