@@ -11,9 +11,9 @@ images:
     alt: "Seven performers in denim piled across a worn sofa, bodies overlapping in a state of collective rest and surrender. Limbs intertwined, faces hidden, the group occupies the couch as a single mass. A low wooden table in the foreground."
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776948300/alixlucas/ourbodymoves/photo_2026-04-23_13-58-59.jpg
     alt: ''
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice4.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1776948300/alixlucas/ourbodymoves/photo_2026-04-23_13-58-52.jpg
     alt: ''
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice5.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1776948300/alixlucas/ourbodymoves/photo_2026-04-23_13-58-52.jpg
     alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1556438640/alixlucas/the-best-advice/best-advice6.jpg
     alt: ''
@@ -27,7 +27,7 @@ Site specific performance held in 90MIL Berlin, about connection and intimacy, a
 - 20 minutes of 12 performers emboding the movement of workers in the former car fabric of 90MIL
 - 8 minute solo performed by Alix Lucas, "the Fairy tree", where the audience is invited to join a circle by touching hands, hand humming a co-regulated group, on the sound of the wind. 
 
-<div style="max-width: 800px; margin: 2rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 24px rgba(0,0,0,0.18);">
+<div style="max-width: 400px; margin: 2rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 24px rgba(0,0,0,0.18);">
   <video controls width="100%" style="display: block;">
     <source src="https://res.cloudinary.com/whyalix/video/upload/v1776948711/alixlucas/ourbodymoves/90MIL_site_specific_trailer.mp4" type="video/mp4">
   </video>
