@@ -11,6 +11,8 @@ images:
     alt: "Seven performers in denim piled across a worn sofa, bodies overlapping in a state of collective rest and surrender. Limbs intertwined, faces hidden, the group occupies the couch as a single mass. A low wooden table in the foreground."
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776948300/alixlucas/ourbodymoves/photo_2026-04-23_13-58-52.jpg
     alt: ''
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1776952475/alixlucas/ourbodymoves/photo_2026-04-23_13-58-49.jpg
+    alt: ''
 ---
 
 Site specific performance held in 90MIL Berlin, about connection and intimacy, and how the place of 90MIL resonate with the participants. 
