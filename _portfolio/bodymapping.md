@@ -1,9 +1,9 @@
 ---
-title: 'Body Mapping (happening)'
+title: 'Body Mapping'
 lang: en
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1776784374/alixlucas/bodymapping/DSC07505_-_thumbnail.jpg
 description: |
-  Happening for the Denkmal Tag in Teufeulsberg in 2016, Berlin. 
+  Site specific performance for the Denkmal Tag in Teufeulsberg in 2016, Berlin. 
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776783663/alixlucas/bodymapping/01.jpg
     alt: ''
