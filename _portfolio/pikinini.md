@@ -19,8 +19,7 @@ images:
     alt: ''
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776970491/alixlucas/pikinini/pikinini204716.jpg
     alt: ''
-    
-- src: https://res.cloudinary.com/whyalix/image/upload/v1776970484/alixlucas/pikinini/pikinini204339.jpg
+  - src: https://res.cloudinary.com/whyalix/image/upload/v1776970484/alixlucas/pikinini/pikinini204339.jpg
     alt: ''
     
 ---
