@@ -27,4 +27,4 @@ Site specific performance held in 90MIL Berlin, about connection and intimacy, a
 - 20 minutes of 12 performers emboding the movement of workers in the former car fabric of 90MIL
 - 8 minute solo performed by Alix Lucas, "the Fairy tree", where the audience is invited to join a circle by touching hands, hand humming a co-regulated group, on the sound of the wind. 
 
-![Artist at work, view of the process](https://res.cloudinary.com/whyalix/image/upload/c_scale,w_600/v1543639529/alixlucas/failed/Failed-Process-01.jpg)
+![Artist at work, view of the process](https://res.cloudinary.com/whyalix/video/upload/v1776948711/alixlucas/ourbodymoves/90MIL_site_specific_trailer.mp4)
