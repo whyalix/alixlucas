@@ -1,8 +1,8 @@
 ---
-title: Movement workshops 
+title: Participatory performance and public space interventions
 lang: en
 description: |
-  Participatory performance and public space interventions, (2024 - today)
+  (2024 - today)
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/v1776696028/alixlucas/movement-workshops/_U0B0609.jpg
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/v1776696028/alixlucas/movement-workshops/_U0B0609.jpg
