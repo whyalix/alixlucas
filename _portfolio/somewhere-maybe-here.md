@@ -1,8 +1,8 @@
 ---
-title: Somewhere Maybe Here
+title: Somewhere Maybe Here, Improvised street performance & film
 lang: en
 description: |
-  Gelatin-silver prints, (2017 - 2019)
+  Co-artistic director, (2017 - 2019)
 thumbnail: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_500/v1542509683/alixlucas/somewhere-maybe-here/SMH-FB-banner03.jpg
 images:
   - src: https://res.cloudinary.com/whyalix/image/upload/c_scale,w_1200/v1544477289/alixlucas/somewhere-maybe-here/somewhere-maybe-here-1.jpg
