@@ -2,11 +2,12 @@ title: Resume
 order:
   - happenings
   - workshops
-  - group_projects
   - art_residencies
+  - group_projects
   - exhibitions
-  - lectures
   - curations
+  - lectures
+  - grants
   - education
 
 happenings:
@@ -23,6 +24,9 @@ art_residencies:
 
 exhibitions:
   title: Selected exhibitions
+
+grants:
+  title: Grants & Public Commissions
 
 lectures:
   title: Lectures
