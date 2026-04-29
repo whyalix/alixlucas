@@ -1,14 +1,15 @@
 title: Resume
 order:
   - happenings
-  - workshops
-  - art_residencies
-  - group_projects
-  - exhibitions
-  - curations
-  - lectures
-  - grants
-  - education
+- workshops
+- art_residencies
+- group_projects
+- exhibitions
+- grants
+- curations
+- lectures
+- press
+- education
 
 happenings:
   title: Happening and performance
@@ -33,6 +34,9 @@ lectures:
 
 curations:
   title: Curation
+
+press:
+  title: Press & Media
 
 education:
   title: Education
