@@ -9,8 +9,6 @@ images:
     alt: "Overhead view of approximately eight people gathered in a tight huddle, heads bowed toward the center, bodies overlapping. A person with curly blonde hair wearing a light blue denim shirt is visible in the foreground, arm extended across another person's back. Several hands are visible resting on shoulders and backs. The group is dressed in casual denim clothing. The image is shot in warm natural light. The faces are hidden, the focus entirely on the physical contact between bodies in a moment of collective stillness, vulnerability, and shared weight."
   - src: https://res.cloudinary.com/whyalix/image/upload/v1777468477/alixlucas/ourbodymoves/U0B0906.jpg
     alt: "Seven performers in denim piled across a worn sofa, bodies overlapping in a state of collective rest and surrender. Limbs intertwined, faces hidden, the group occupies the couch as a single mass. A low wooden table in the foreground."  
-  - src: https://res.cloudinary.com/whyalix/image/upload/v1776948300/alixlucas/ourbodymoves/photo_2026-04-23_13-58-52.jpg
-    alt: ""
   - src: https://res.cloudinary.com/whyalix/image/upload/v1777468479/alixlucas/ourbodymoves/U0B0967.jpg
     alt: ""
   - src: https://res.cloudinary.com/whyalix/image/upload/v1777468479/alixlucas/ourbodymoves/U0B0969.jpg
